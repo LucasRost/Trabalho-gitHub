@@ -1,0 +1,16 @@
+body{
+    overflow-y: hidden;
+}
+
+.margin-left{
+    margin-left: 5rem;
+}
+
+header img{
+    width: 5rem;
+    height: 3rem;
+}
+
+main img{
+    height: 36rem;
+}
